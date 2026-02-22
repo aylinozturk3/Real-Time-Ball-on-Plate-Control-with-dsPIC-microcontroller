@@ -35,3 +35,7 @@ Compute PID control signals
 Generate PWM to drive servo motors
 
 Track desired trajectory (circle)
+
+Here is the experimental setup:
+
+![Ball-on-Plate Setup](plate.jpeg)
